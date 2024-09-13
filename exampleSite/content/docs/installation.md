@@ -136,8 +136,6 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
-
 minify:
     disableXML: true
     minifyOutput: true
